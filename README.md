@@ -31,6 +31,7 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
    node prisma/seed.js
    ```
 
+
 5. Run the app:
    ```
    npm run dev
