@@ -13,7 +13,6 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
 ## Quick start (local)
 
 
-
 1. Install dependencies:
    ```
    npm install
