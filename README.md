@@ -40,7 +40,6 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
 ## Deployment
 
 
-
 - Deploy to Vercel, set `DATABASE_URL` and `JWT_SECRET` in Vercel env vars.
 - Run `npx prisma generate` and run the seed once (you can run locally against the same database).
 
