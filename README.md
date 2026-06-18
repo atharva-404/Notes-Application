@@ -29,6 +29,7 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
    ```
 
 4. Seed the database:
+
    ```
    node prisma/seed.js
    ```
