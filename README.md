@@ -39,7 +39,6 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
    npm run dev
    ```
 
-
 ## Deployment
 
 
