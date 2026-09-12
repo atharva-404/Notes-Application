@@ -16,7 +16,6 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
    ```
    npm install
 
-
    ```
 
 2. Set environment variables:
