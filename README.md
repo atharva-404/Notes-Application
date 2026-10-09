@@ -18,6 +18,7 @@ This is a minimal, ready-to-deploy Next.js app (API + frontend) implementing a m
 
    ```
 
+
 2. Set environment variables:
 
    - Copy `.env.example` to `.env` and fill `DATABASE_URL` and `JWT_SECRET`.
